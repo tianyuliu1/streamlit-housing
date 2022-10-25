@@ -1,2 +1,2 @@
 # streamlit-housing
-homework app
+lab app
